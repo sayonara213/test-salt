@@ -4,14 +4,7 @@ Decentralized AI on a mission to the moon.
 
 ## Demo
 
-<!-- Add your demo video here -->
-
-[![Demo Video](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](YOUR_VIDEO_LINK)
-
-<!-- Or embed directly: -->
-<!--
-<video src="YOUR_VIDEO_URL" width="100%" controls></video>
--->
+https://github.com/user-attachments/assets/bc06b133-5463-4225-9c67-1788bb119a76
 
 ## About
 
